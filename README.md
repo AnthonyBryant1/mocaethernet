@@ -6,7 +6,7 @@ Project consists of using a very under-rated piece of technology called MoCA (Mu
 
 
 <h2>[This is a Placeholder]</h2>
--I may come back to this later; I am currently enrolled in 17 credits, and pursuing an internship!
+[Work in Progress] as I balance this portfolio with my course work.
 <!--
  ```diff
 - text in red
